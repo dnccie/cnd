@@ -9,3 +9,5 @@ Cisco Nexus Dashboard learning and automation practice.
 
 ## My goal
 Learn Git and Cisco Nexus Dashboard Automation step by step.
+## Edited in VS Code
+This was my first edit in VS Code on my Mac.
